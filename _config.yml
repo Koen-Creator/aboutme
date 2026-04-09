@@ -155,6 +155,9 @@ baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
+favicon:
+  path: /assets/img/favicons/toggle-on-solid-full.svg
+
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
